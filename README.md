@@ -8,3 +8,5 @@ Requirements:
 - Metasploit Installed on the machine
 - Tested on Kali with Firefox
 - Access key/Secret Key from Tenable.io
+
+io_ms_integration.py "ip_address" "min vpr"
