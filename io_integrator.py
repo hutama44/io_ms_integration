@@ -20,7 +20,7 @@ class color:
 
 ip = sys.argv[1]
 vpr = sys.argv[2]
-tio = TenableIO('', '')
+tio = TenableIO('WRITE_ACCESS_KEY_HERE', 'WRITE_SECRET_KEY_HERE')
 mn = []
 cv = []
 

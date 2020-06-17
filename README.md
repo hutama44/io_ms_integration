@@ -7,3 +7,4 @@ Requirements:
 - PyTenable
 - Metasploit Installed on the machine
 - Tested on Kali with Firefox
+- Access key/Secret Key from Tenable.io
